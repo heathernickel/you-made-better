@@ -184,9 +184,9 @@ export default function Home() {
             <span className="brand-mark" />
             <div className="brand-name">YOU MADE<br />BETTER</div>
           </div>
-          <h1>Build a life you actually mean to live.</h1>
+          <h1>A meaningful life is built intentionally.</h1>
           <p>
-            Most people drift through life reacting to pressure, distraction, and competing priorities. You Made Better helps people live with greater clarity, direction, purpose, and intentionality.
+            You Made Better provides a practical structure for reflection, alignment, growth, and purposeful living.
           </p>
           <a className="cta" href="#overview">START YOUR JOURNEY</a>
         </div>
