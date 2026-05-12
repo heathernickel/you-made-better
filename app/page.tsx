@@ -247,13 +247,19 @@ export default function Home() {
 
       <section className="section charcoal final">
         <div className="inner">
-          <p className="kicker">The Philosophy</p>
-          <h2>Many people are busy but disconnected.</h2>
+          <p className="kicker">Start Building Intentionally</p>
+          <h2>Clarity changes direction.</h2>
           <p className="lead">
-            They are successful on paper but unclear about what actually matters. They feel stretched across responsibilities, distracted by urgency, and unsure if their life reflects who they want to become.
+            When people understand who they are, what matters most, and where they are going, life becomes more aligned and decisions become more intentional.
           </p>
-          <div style={{ marginTop: 44 }}>
-            <a className="cta" href="mailto:hello@madebettercoaching.ca">SPEAK WITH AN ADVISOR</a>
+          <p className="lead" style={{ marginTop: 28 }}>
+            You Made Better provides a practical structure for reflection, growth, accountability, and meaningful progress.
+          </p>
+          <p className="lead" style={{ marginTop: 28 }}>
+            Not just productivity. Not just motivation. A better direction forward.
+          </p>
+          <div style={{ marginTop: 52 }}>
+            <a className="cta" href="mailto:hello@madebettercoaching.ca">BEGIN THE JOURNEY</a>
           </div>
         </div>
       </section>
